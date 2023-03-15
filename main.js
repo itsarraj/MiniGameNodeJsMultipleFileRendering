@@ -15,8 +15,15 @@ function requestHandler(req, res) {
             filePath = './main.html';
             break;
         case '/KeyboardHero':
-            filePath = './game1/index.html';
+            filePath = './KeyboardHero/index.html';
             break;
+        case '/menja':
+            filePath = './menja/index.html';
+            break;
+        case '/tiltingmazegame':
+            filePath = './Tilting Maze Game/index.html';
+            break;
+
         default:
             filePath = './404.html';
     }
