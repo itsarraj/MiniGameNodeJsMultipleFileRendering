@@ -12,7 +12,7 @@ function requestHandler(req, res) {
 
     switch (req.url) {
         case '/':
-            filePath = './main.html';
+            filePath = './index.html';
             break;
         case '/KeyboardHero':
             filePath = './KeyboardHero/index.html';
