@@ -100,3 +100,11 @@ div > .titlegame {
     background-image: linear-gradient(to bottom, rgb(0, 0, 0), rgb(24, 17, 14));
     box-shadow: rgb(0 0 0 / 26%) 0px 3px 8px;
 }
+
+.span-a {
+    border: 1px solid rgb(93, 4, 4);
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    margin-left: 0.5em;
+    border-radius: 0.5em;
+    box-shadow: rgb(0 0 0 / 26%) 2px 1px 2px;
+}
