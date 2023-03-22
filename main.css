@@ -74,8 +74,7 @@ li::before {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
-
-/* Element separation */
+/* separate element */
 li + li {
     border-top: 1px solid rgba(255, 255, 255, 0.2);
 }
